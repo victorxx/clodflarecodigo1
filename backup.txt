@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Divulga Empresa</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      margin: 0;
+      padding: 0 20px;
+      color: #333;
+    }
+    header {
+      background-color: #004aad;
+      color: white;
+      padding: 15px 20px;
+      text-align: center;
+      font-size: 1.5rem;
+      font-weight: bold;
+    }
+    main {
+      max-width: 900px;
+      margin: 20px auto;
+      background: white;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 8px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      color: #004aad;
+    }
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    ul li {
+      margin-bottom: 12px;
+    }
+    a {
+      color: #004aad;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      margin-top: 40px;
+      text-align: center;
+      font-size: 0.9rem;
+      color: #666;
+      padding-bottom: 20px;
+    }
+    .contact {
+      background-color: #004aad;
+      color: white;
+      padding: 15px;
+      text-align: center;
+      border-radius: 5px;
+      margin-top: 30px;
+    }
+    .contact p {
+      margin: 0;
+      font-weight: bold;
+      font-size: 1.2rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    Divulga Empresa - Serviços e Links Úteis
+  </header>
+
+  <main>
+    <section>
+      <h1>Confira esses links importantes</h1>
+      <ul>
+        <li><a href="https://localizacaoviaip.blogspot.com/2025/07/conheca-doke-hoste-vps-que-vai.html" target="_blank">Conheça Doke Hoste VPS que vai te surpreender</a></li>
+        <li><a href="https://fixodkei.blogspot.com/2025/07/como-no-airbnb.html" target="_blank">Como no Airbnb - Dicas e truques</a></li>
+        <li><a href="https://localizacaoviaip.blogspot.com/2025/07/descubra-o-poder-da-vps-hostinger.html" target="_blank">Descubra o poder da VPS Hostinger</a></li>
+        <li><a href="https://localizacaoviaip.blogspot.com/2025/07/ganhe-dinheiro-extra-de-forma-simples-e.html" target="_blank">Ganhe dinheiro extra de forma simples e rápida</a></li>
+        <li><a href="https://localizacaoviaip.blogspot.com/2025/07/proteja-o-que-importa-seu-futuro-sua.html" target="_blank">Proteja o que importa: seu futuro e sua família</a></li>
+        <li><a href="https://victorxx.github.io/hostinger01vps/" target="_blank">Hostinger VPS - Página oficial</a></li>
+        <li><a href="https://victorsaib2.github.io/vps/" target="_blank">VPS - Serviços e planos</a></li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Contato e Serviços</h2>
+      <p><strong>Crédito Pessoal:</strong> <a href="http://www.geocredibnkvitoria.com" target="_blank">www.geocredibnkvitoria.com</a></p>
+      <p><strong>Telefone:</strong> 📞 (027) 99949-7001 – Seguros e consórcios. Confira!</p>
+      <p><a href="https://55ae4c7e.contatoroberto.pages.dev/" target="_blank">Contato Roberto - Página de contato</a></p>
+    </section>
+
+    <section>
+      <h2>Outros links úteis</h2>
+      <ul>
+        <li><a href="https://victorsaibxxcv.github.io/redirect01/" target="_blank">Redirecionamento 01</a></li>
+        <li><a href="https://contaroroberto.pages.dev/" target="_blank">Contar Roberto - Página</a></li>
+        <li><a href="https://airbnb1.pages.dev/" target="_blank">Airbnb 1 - Página</a></li>
+        <li><a href="https://victorsaib2.github.io/airbnb/" target="_blank">Airbnb 2 - Página</a></li>
+        <li><a href="https://victorxx.github.io/referenciaencurtadores/" target="_blank">Referência Encurtadores</a></li>
+        <li><a href="https://victorxx.github.io/encurtadores01/" target="_blank">Encurtadores 01</a></li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Serviços de TI e Entretenimento</h2>
+      <ul>
+        <li><a href="https://piadasrepositorio.vercel.app/" target="_blank">Humor e entretenimento</a></li>
+        <li><a href="https://vpserp.vercel.app/" target="_blank">Serviços de TI - VPS ERP</a></li>
+        <li><a href="https://creditopessoal.vercel.app/" target="_blank">Crédito pessoal e seguros</a></li>
+        <li><a href="https://laudobancriotimline.netlify.app/" target="_blank">Laudo Pericial Bancário</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <div class="contact">
+    <p>📞 (027) 99949-7001 – Seguros e consórcios. Confira!</p>
+  </div>
+
+  <footer>
+    © 2025 Divulga Empresa - Todos os direitos reservados
+  </footer>
+</body>
+</html>
